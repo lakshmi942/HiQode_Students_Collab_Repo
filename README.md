@@ -1,4 +1,4 @@
-# HiQode Simple UI (No Backend) — v1.0.0.
+# HiQode Simple UI (No Backend) — v1.0.0
 
 An ultra-simple, elegant **React** app with a modern UI (glass look) that stores data in **localStorage**. Perfect for teaching **clone → branch → commit → PR → merge** without backend complexity.
 
